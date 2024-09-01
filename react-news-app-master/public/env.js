@@ -1,3 +1,3 @@
 window.env = {
-  "REACT_APP_API_KEY": "tour API key"
+  "REACT_APP_API_KEY": "your API key"
 };
