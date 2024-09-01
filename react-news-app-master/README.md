@@ -57,7 +57,9 @@ y
 
 Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md) before submitting a pull request.
 
-## License
+##Contact
+For any questions or issues, please contact safshaikabbas@gmail.com.
 
-This project is licensed under the [MIT License](LICENSE).
+
+
 
